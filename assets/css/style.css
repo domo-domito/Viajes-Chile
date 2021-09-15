@@ -9,3 +9,7 @@ body {
 .bg-black {
     background-color: black;
 }
+
+.foto-card {
+    max-height: 150px;
+}
