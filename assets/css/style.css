@@ -13,3 +13,7 @@ body {
 .foto-card {
     max-height: 150px;
 }
+
+.card-text {
+    max-height: 3rem;
+}
